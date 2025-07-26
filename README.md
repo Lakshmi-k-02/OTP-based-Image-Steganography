@@ -1,7 +1,3 @@
-# OTP-based-Image-Steganography
-OTP based image steganography
-
-
 Image based Steganography with OTP Verification
 
 A desktop GUI application built with Python Tkinter that allows users to securely encode and decode messages within images using LSB (Least Significant Bit) steganography, protected by an OTP verification system.
