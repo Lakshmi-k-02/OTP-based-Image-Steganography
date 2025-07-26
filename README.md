@@ -17,6 +17,7 @@ PIL (Pillow) – for image processing
 Random, OS – for OTP generation and file handling
 
 How It Works:
+
     1.Encoding:
     Select an image.
     Enter the message you want to hide.
